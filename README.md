@@ -13,11 +13,12 @@ Hi! My name is Phone Myint Maw and these files include my **Java projects** base
 
 ## Screenshots
 Calculator |  Snake Game
+:------------------:|:-------------------
 ![Calculator - screenshot](Screenshots/Calculator.gif) | ![Snake Game - screenshot](Screenshots/Snake.gif)
 Mortgage Calculator |  Mortgage Calculator with JOptionPane
 ![Mortgage Calculator - screenshot](Screenshots/MortgageCalculator.gif) | ![Mortgage Calculator with JOptionPane - screenshot](Screenshots/MortgageCalculatorwithJOptionPane.gif)
-Mortgage Calculator with GUI
-![Mortgage Calculator with GUI - screenshot](Screenshots/MortgageCalculatorwithGUI.gif)
+Mortgage Calculator with GUI |
+![Mortgage Calculator with GUI - screenshot](Screenshots/MortgageCalculatorwithGUI.gif) 
 
 ## Requirements
 - Java 8 or higher

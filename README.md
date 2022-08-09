@@ -17,7 +17,7 @@ Calculator |  Snake Game
 ![Calculator - screenshot](Screenshots/Calculator.gif) | ![Snake Game - screenshot](Screenshots/Snake.gif)
 Mortgage Calculator |  Mortgage Calculator with JOptionPane
 :------------------:|:-------------------
-![Mortgage Calculator - screenshot](Screenshots/Mortgage Calculator.gif) | ![Mortgage Calculator with JOptionPane - screenshot](Screenshots/MortgageCalculatorwithJOptionPane.gif)Mortgage Calculator with GUI
+![Mortgage Calculator - screenshot](Screenshots/MortgageCalculator.gif) | ![Mortgage Calculator with JOptionPane - screenshot](Screenshots/MortgageCalculatorwithJOptionPane.gif)Mortgage Calculator with GUI
 :------------------:|
 ![Mortgage Calculator with GUI - screenshot](Screenshots/MortgageCalculatorwithGUI.gif)
 
